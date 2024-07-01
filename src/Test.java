@@ -13,7 +13,7 @@ public class Test {
 		
 		taro.address = "XXX@gmail.com" ;
 		
-System.out.println(taro.name);
+		System.out.println(taro.name);
 		
 		System.out.println(taro.age);
 		
